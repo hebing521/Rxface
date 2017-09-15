@@ -1,0 +1,1 @@
+1.发布的时候  gradle buildConfigField DEBUG 改成false
